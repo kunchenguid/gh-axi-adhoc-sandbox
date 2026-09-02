@@ -1,3 +1,0 @@
-adhoc e2e marker for PR 136 / release 0.1.36
-branch=adhoc-0136-ba25d76b
-delete-me=true
